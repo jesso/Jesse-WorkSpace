@@ -1,0 +1,118 @@
+
+body{
+    background-color: #d7dfe6;
+    color: #212529;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1{
+    font-size: 50px;
+    font-weight: bolder;
+    padding-top: 30px;
+}
+
+p{
+    font-size: 30px;
+    font-weight: lighter;
+}
+
+.navigation{
+    background-color: #fff !important;
+}
+.sidebar{
+    
+    background-color: #939a9f;
+    color: #fff;
+    
+    min-height: 850px;
+    font-size: 25px;
+    
+    
+}
+ .nav-link {
+    color: #fff !important;
+}
+li{
+     color: #fff !important;
+}
+
+.navbar-expand-lg .navbar-nav{
+    margin: 0 auto;
+    font-size: 25px;
+}
+.navbar-expand-lg .navbar-nav .nav-item{
+    padding-right: 30px;
+    padding-left: 30px;
+}
+
+.main-section{
+    
+    height: 850px;
+    background-color: #edf1f4;
+}
+
+.list-group-item{
+    background-color: transparent;
+    border: none;
+    
+}
+
+/* Time */
+.timer {
+    /* padding: 5px; */
+    font-size: 12px;
+    margin-top: 100px;
+    margin-left: 25rem;
+    
+   
+  }
+   
+  .output {
+    font-size: 2em;
+    width: 10rem;
+    /* height: auto; */
+    background-color: white;
+    border: 2px solid black;
+
+    /* margin-top: px; */
+  }
+ 
+  .timer .btn {
+    /* margin-top: 5px; */
+    font-size: 1rem;
+  }
+
+/* Quiz Box */
+
+
+
+.box{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 200px;
+    width: 60rem;
+    height: 40rem;
+    text-align: center;
+    border-radius: 10px;
+    -webkit-box-shadow: -1px 8px 10px 0px rgba(0,0,0,5);
+    -moz-box-shadow: -1px 8px 10px 0px rgba(0,0,0,0,5);
+    box-shadow: -1px 8px 10px 0px rgba(0,0,0,0,5);
+    
+    
+}
+
+
+input{
+    margin-top: 20rem;
+    max-width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.btn-primary
+{
+    margin-top: 20px;
+    cursor: pointer;
+
+}
